@@ -29,7 +29,7 @@ This project demonstrates a **full-stack e-commerce system** with a **Java Sprin
 - **Password Reset**: Provide a password recovery feature via email.
 - **Product Management**: Manage product listings, allowing CRUD operations (add, update, delete products).
 - **Order Management**: Users can place orders, view order details, and track the status of their orders.
-- **Payment**: Support for payments via PayPal or credit card.
+- **Payment**: Support for payments via PayPal, MoMo, ZaloPay, Vnpay or credit card.
 
 ---
 
